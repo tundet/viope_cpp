@@ -1,2 +1,2 @@
-# viope_cpp
+# Viope Course
 C++ Programming Exercises
